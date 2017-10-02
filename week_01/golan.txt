@@ -1,0 +1,125 @@
+Beyond Photoshop with Code
+
+1. designing with code
+
+artists should understand and surpass the limits imposed by their software tools ( or tools in general)
+
+tools that democratize ability can also homogonize output
+
+"The tradition of artists creating their own tools is as old as art itself;
+for centuries, artists ground their own pigments, plucked pig hairs to make
+their own brushes, and primed their own canvases with glue made from boiled
+rabbits. Instead of distracting artists from their "true purpose", these
+crafts actually tightened artists' connections to their materials and process.
+The revolution in software tools over the past decade, by contrast, has
+disastrously diminished the intimacy of this practice/practitioner
+relationship. Our tools, created by anonymous engineers for nobody in
+particular, are mass-produced, mass-distributed, one-size-fits-all. And all
+too often, we have no idea how we might make such a tool for ourselves, even
+if we wanted to. In this essay, I hope to convey the idea that artists can
+still make their own tools. The territory has largely shifted from paint to
+code: so that is where we must go."
+- Golan Levin
+
+for 3 years I avoided actually learning how to program.
+
+
+Wassily Kandinsky's Point and Line to Plane (1926)
+Gyorgy Kepes' Language of Vision (1944)
+Paul Klee's Pedagogical Sketchbook (1923)
+
+Add Maeda to the timeline
+
+
+The simple fact is that in visual design, there are no right answers—we have
+nothing to rely on but our own raw talents and our own practiced eyes. In the
+realm of software engineering, by contrast, nearly everything one might care
+to know about or use is available and documented in a book. Programming,
+computation, engineering: everything you wish to know is already out there,
+waiting for you to seize it. May you already possess the talents that can't be
+taught, so that you may learn and use well the ones that can. 
+
+
+understanding media 1997 McLuhan
+
+To McLuhan, "hot" media are high-definition, high-resolution experiences that
+are "well-filled with data," while "cool" media are low-definition experiences
+that leave a great deal of information to be filled in by the mind of the
+viewer or listener. Within McLuhan's scheme, therefore, photography and film
+would be examples of hot media, while cartoons and telephony would be cool.
+McLuhan's definitions establish an opposition between the "temperature" of a
+medium and the degree to which it invites or requires audience participation:
+hot media demand little completion by their audience, while cool media, "with
+their promise of depth involvement and integral expression," are highly
+participatory. 
+
+The notable property of cool media, I believe, is that they blur the
+distinctions we make between subject and object, enabling the completion of
+each by the other.
+
+My personal criteria for interactive media begin, therefore, not with the
+question "for how long can I suspend my disbelief in it?" but with the
+questions: for how long can I feel it to be a seamless extension of myself?
+and to what depth can I feel connected to another person through it?
+
+To answer these questions well, an interactive medium must become a kind of
+prosthesis, a participatory information-prosthesis which is so intimately
+adapted to us that our awareness of it drops away when we engage with it. To
+do this, we must rethink what it means for a medium to be personal, for a
+defining feature of our modern era is that nearly everything we touch or
+experience is impersonal and canned. "Canned" is my word for it, anyway; one
+might equivalently describe much of the world around us as pre-prepared or
+mass-produced. Few aspects of life have been spared from this depressing
+homogenization.
+
+It is therefore ironic that computers—as mass-produced putty-colored boxes,
+the most quintessentially generic items of all—have the most unprecedented
+potential of any technology to break this trend of homogenization, and respond
+to us in ways that are uniquely individual.
+
+To create engaging interactive systems which can sustain our interest over
+repeated encounters, I believe we must eschew canned materials in favor of
+creating interesting generative relationships between input and output. When
+looked at in this way, the number of possible relationships and their space of
+possible outcomes is nearly unlimited. No matter what form the user's input
+takes—whether textual, gestural, auditory or what-have-you—we can imagine a
+way in which it can be amplified, shrunk, sharpened, dulled, embellished,
+simplified, stored, reversed, echoed, repeated, reflected, slowed,
+accelerated, rotated, shifted, fragmented, merged, negated, transmitted,
+transformed, transmogrified. Taken as a group, these augmentation techniques
+can be used to present the user with feedback systems whose rules produce
+surprising and engaging results. If they strike the right balance of
+intelligibility, novelty and utility, the experience of incorporating oneself
+into these systems can be deeply enjoyable and perhaps even socially
+significant.
+
+The creation of generative relationships in interactive artworks is most
+hampered by the limited malleability of our media.
+
+The finer our level of granularity, the more control we have, and also the
+more work we must do to create interesting results. It's a tradeoff that I
+truly believe is worth making. From the programmer's point of view, we are
+faced with the choice of triggering something as simple as a "play" button, or
+doing the hard work of developing a generative synthesis algorithm. But from
+the user's point of view, we are faced with hearing the same melody...again,
+and again...or hearing a sound which responds to our unique presence in the
+world of information. 
+
+Much of my own work has focused on the development of systems for the
+real-time creation and performance of animated abstract imagery and synthetic
+sound. Every environment I develop represents an experimental attempt to
+design an interface which is at once supple and easy to learn, but which can
+also yield interesting, infinitely variable and personally expressive
+performances. In pursuing this goal, I've often found it necessary to use the
+most malleable media possible, and in this way to build up my generative
+schemes from first principles. Thus many of my pieces make extended use of
+low-level synthesis techniques in order to directly control every individual
+pixel and every sound wave displayed and produced by the computer. To complete
+the feedback of the interaction loop, my systems chiefly derive their inputs
+from human gesture. The psychological and physiological intimacy of the
+relationship we have with our own gestures is surprising, and when our marks
+are used to generate uniquely ephemeral dynamic media, it's possible to create
+simple and transparent interactions which can nevertheless open new vistas of
+possibility and experience. The pictures which illustrate this section are
+stills taken from my interactive works, and give an idea of my systems'
+expressive range.

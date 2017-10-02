@@ -1,0 +1,127 @@
+GNU ONLY!!!!!
+
+ abandon old tools
+
+
+	CAE awake
+
+grade
+	weekly assignments: 10%
+	final project: 90%
+
+	final project pop-up exhibition at st james church
+
+computer vision
+
+	about extracting data from images
+
+computational art
+	"does it take advantage of the computer's unique capabilities?" -
+	Roger Malina - SIGGRAPH 1989
+
+	"does your work with the computer affect the direction of your
+results?"-
+	Aldo Giorgini - source 1975
+
+
+	do you control the computer or does the computer control you?
+
+1940s
+	tools designed for engineering not for art		
+
+1950-60s
+	cybernetic serendipidty exhibition 1968
+	hans haacke's visitors profile 1971
+	process based art
+		sol le witt
+		yoko ono
+		john cage (?)		
+	engineers working with graphics
+	two developing in tandom
+	BLEFIX	
+	bell labs created a program for cage to work with the i ching
+
+
+	perhaps cage stopped at a step too soon. its not enough to have
+indeterminacy. need to understand the system.
+
+1970-80
+	personal computer - join this with the hacker book timeline
+	lingo - first language used by designers and artists until early 90s
+	code now used for things besides "data processing"
+
+	creating our own tools is a long tradition - cage made his own tools
+
+	creating own tools brings us closer to pure thought and better
+understanding
+
+	this gets into free software and democratization of tools and 
+	understanding how processes work.
+	
+	industrial design making standard.
+	
+	to create true work, create your own tools.
+
+	create your own limitations.
+
+	medium is the message
+	marshall mccluhan
+	spectrum of required user interaction
+	hot media - requires less user interaction 
+	cold media - requires more user interactiono
+	
+
+artists
+	julian oliver
+	?? golden nikka?
+	network as medium
+	berlin is the place to be
+	WRT
+	presenting information is so important
+
+	exposing fragility of networks and data integrity and truth?
+
+
+	beetroot design group
+
+	vr sense of self - bbc - knife - michael mosley?
+
+software culture
+
+change at end 60s
+	software cost increase
+	user support increase	
+	hardware cost decrease
+	
+	leads to sharing binaries not source code of software
+	leads to liscensing and limiting user
+	
+	not just companies, but other hackers moved to licesing
+
+1985
+	gnu manifesto - richard stallman
+	gpl 1989
+
+	whats the history of eastern computing?
+	japanese were computing during ww11 as well
+
+
+clear writing 
+	propritary
+	free
+	open-source
+
+	public domain
+	creative commons
+
+
+	what is an arm chip?	
+
+	principles of agile programming
+
+
+	sharing with citations
+
+
+	imposter syndrome - feeling unqualified for your current placement
+	students and teachers - usually happens with high achievers
