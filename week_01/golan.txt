@@ -1,64 +1,117 @@
+Essays for 4X4: Beyond Photoshop with Code
+
 the tradition of people creating their own tools is as old as humanity itself.
+I believe it to be an integral part of the human experience.
 
-further, "The tradition of artists creating their own tools is as old as art itself."
-This tradition has always deepened humans knowledge of self and  knowledge of other.
-and closing the gap between the two.
+Further, 
+"The tradition of artists creating their own tools is as old as art itself."
+This tradition has always deepened humans knowledge of self and knowledge of
+other, bringing an end to the distinction between the two.
 
-Computational complexity and strict IP licensing has put an abrupt halt to this inherent tradition.
-a defining feature of our modern era is that much of the world around us as pre-prepared or
-mass-produced. Few aspects of life have been spared from this depressing homogenization.
-no one makes their own tools anymore nor knows how to.
-No one fully grasps the limitations this brings to our lives.
-The new tools are closed, mass-produced tools
-that democratize ability and at the same time homogonize output. 
-making homogonized human beings
+A defining feature of our modern era is that much of the world around us 
+is pre-prepared or mass-produced in closed systems out of view. 
+Few aspects of life have been spared from this depressing homogenization.
+New closed, mass-produced tools promise to democratize ability for the masses, 
+but at the same time end up homogonizing the scope of output.
+
+The problem is usually framed as a quantity vs quality problem.
+A watered down experience for all vs. a rich experience for few.
+
+Unfortunately, its rarely seen that we don't have to choose between the two.
+making homogonized human beings isnt necessary.
+
+Of this modern homogenization trend, 
+two driving forces are computational abstraction and
+(perhaps more importantly) strict intellectual property licensing applied to that abstraction.
+this has put an abrupt halt to the inherent human tradition of tool creation.
+
+!! note that abstraction is not a bad thing, it is more of the highest
+cognitive barrier of entry to tool making humans have seen so far. 
+
+few humans know how to make their own software tools.
+fewer humans actually make them.
+even fewer humans fully grasps the limitations this brings to the human
+experience.
+
+!!This reminds me of that wells novel the man who can fix anything.
+
+stunted by liscening. putting business over humanity.
+
+!! There is no such thing as primitive man, only primitive tools.
 
 The creation of human relationships is most
 hampered by the limited malleability of our media.
 
-We must cast out canned media.
-understanding media 1997 McLuhan
-There is a media spectrum of creator & audience participation 
-less (hot) to more (cold).
-The notable property of cool media is that they blur the
-distinction subject and object, enabling the completion of each by the other.
+McLuhan orders media in a spectrum of required audience (and subsequently creator) participation 
+-- less (hot) to more (cold).
 
-It is therefore ironic that computers—as mass-produced putty-colored boxes,
-the most quintessentially generic items of all—have the most unprecedented
-potential of any technology to break this trend of homogenization, and respond
-to us in ways that are uniquely individual.
+For our humanity, we must cast out "hot" media,
+being passive, one-way, strictly-defined, high-resolution data experiences.
+Cool media, on the otherhand, is relational, participartory, abstract (not vague),
+blurring the distinction between subject and object, 
+enabling the completion of each by the other.
+Hot media is a lazy high.
+Cool media requires humans to think and interact.
+It requires humans to be human.
+
+!!understanding media 1997 McLuhan
+
+Modern tools are and focus on producing easier-made hot media experiences.
+Hot media forces us into spectator, consumer roles instead of creator roles.
+Perhaps intentionally steering humans away from more fertal cold technologies.
+a passive consumer makes money, does not make a human.
+
+The question is do humans want to work hard for a better human experiences
+or settle for simplistic experiences and narritives? 
+Do we want to play within predefined limits or play with the limits
+themselves?
+
+The finer our level of granular control we have over our media
+dictate the richness of our human experience. 
+
+This takes incredibly hard work, but is nowhere else more rewarding.
+
+Exodus from hot to cold media
+Is a tradeoff that I believe is worth making.
+from the creator's point of view,
+We are faced with the choice of triggering something as simple as a "play" button,
+or doing the hard work of developing a generative synthesis algorithm. 
+But from the user's point of view, 
+we are faced with hearing the same melody...again and again...
+or hearing a sound which responds to our unique presence in the world of information. 
+
+This tradeoff is most powerful in the media of code.
 We must learn how to think computationally.
 Our humanity depends on it.
 
-The finer our level of granularity, the more control we have, and also the
-more work we must do to create interesting results. 
+A couple questions to keep in mind when creating (from Golan Levin):
 
-It's a tradeoff that I
-truly believe is worth making. From the programmer's point of view, we are
-faced with the choice of triggering something as simple as a "play" button, or
-doing the hard work of developing a generative synthesis algorithm. But from
-the user's point of view, we are faced with hearing the same melody...again,
-and again...or hearing a sound which responds to our unique presence in the
-world of information. 
+how long does the tool feel like a seamless extension of myself?
+to what depth can I feel connected to another person through it?
 
-My personal criteria for a tool begins with the 
-questions: for how long does the tool feel to be a seamless extension of myself?
-and to what depth can I feel connected to another person through it?
-
-To answer these questions well, an interactive medium mus be so intimately
+To answer these questions well, an interactive medium must be so intimately
 adapted to us that our awareness of it drops away when we engage with it. 
-To become one.
+The goal is to become one with "the other".
 
 cold media allows for humanness.
 
 
+a note to a subsection of humans: artists.
 
-visual design is based on talents that can't be taught. There are no right
-anwsers. Computation: everything we wish to know can
-be taught and is already available and documented in accessible books. Use the
-visual talents you posses and sieze the computational ones you may learn and use well.
+There are no right answers in the arts.
+Its based on talents and opinions that can't necessarily be taught.
+This simple fact makes it an incredibly hard field to work in.
+However, in computation everything we wish to know can be taught 
+and is accessibly available and documented in books. 
+
+Use the visual talents you posses.
+But also sieze the computational ones you may learn and use them well.
+Your and our humanity depends on it.
 
 
+It is ironic that computers—as mass-produced boxes,
+the most quintessentially generic items of all, have the most 
+potential of any technology to break this trend of homogenization
 
 
 people to add to timeline:
@@ -66,5 +119,10 @@ people to add to timeline:
 Wassily Kandinsky's Point and Line to Plane (1926)
 Gyorgy Kepes' Language of Vision (1944)
 Paul Klee's Pedagogical Sketchbook (1923)
+John Maeda - design by numbers
 
-Add Maeda to the timeline
+
+why John didn't click.
+
+indeterminacy an important primer, but a step too short.
+
