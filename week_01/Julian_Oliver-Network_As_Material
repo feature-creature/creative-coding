@@ -1,0 +1,555 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Network as Material: An Interview with Julian Oliver. | www.furtherfield.org</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/furtherfield.org/files/furtherfield_favicon_0.ico" type="image/x-icon" />
+
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/furtherfield.org/files/css/css_a52f6b0f0fc94da7c3662b7aac229236.css" />
+    <script type="text/javascript" src="/sites/furtherfield.org/files/js/js_122c87c96c99a3177ead82e8a437108f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 }, "viewsSlideshowSingleFrame": { "#views_slideshow_singleframe_main_event-block_1": { "num_divs": 5, "id_prefix": "#views_slideshow_singleframe_main_", "div_prefix": "#views_slideshow_singleframe_div_", "vss_id": "event-block_1", "timeout": 5000, "sort": 1, "effect": "fade", "speed": 700, "start_paused": 0, "delay": 0, "fixed_height": 1, "random": 0, "pause": 1, "pause_on_click": 0, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "remember_slide": 0, "remember_slide_days": 1, "controls": 0, "items_per_slide": 1, "pager": 0, "pager_type": "Numbered", "pager_hover": 2, "pager_click_to_page": 0, "image_count": 0, "nowrap": 0, "sync": 1, "advanced": "cleartypeNoBg: true", "ie": { "cleartype": "true", "cleartypenobg": "false" } } } });
+//--><!]]>
+</script>
+    <!--[if lte IE 7]><link type="text/css" rel="stylesheet" media="all" href="/sites/furtherfield.org/themes/furtherfield/src/furtherfield.ie.css" /><![endif]-->
+    <link href="http://furtherfield.org/features/feed" rel="alternate" type="application/rss+xml" title="Furtherfield.org - Features" />
+    <link href="http://furtherfield.org/netbehaviour/feed" rel="alternate" type="application/rss+xml" title="NetBehaviour" />
+    <link href="http://furtherfield.org/blogs/feed" rel="alternate" type="application/rss+xml" title="Furtherfield.org - Community Blog Stream" />
+    <link href="http://furtherfield.org/features/blogs/feed" rel="alternate" type="application/rss+xml" title="Furtherfield.org - Furtherfield Blog" />
+    <link href="http://furtherfield.org/community/calendar/feed" rel="alternate" type="application/rss+xml" title="Furtherfield.org - Calendar" />
+  </head>
+  <body class="page nid-27212">
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78953648-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+    <div class="container">
+      <div id="top">
+        <div>
+          <ul class="menu">
+                      <li class="first"><a href="/user" title="login">Login</a></li>
+            <li><a href="/user/register" title="register">Sign Up</a></li>
+                    </ul>
+          <img src="/sites/furtherfield.org/themes/furtherfield/img/top_slogan_red.png" alt="for arts, technology &amp; social change" class="motto"/>
+                  </div>
+      </div>
+      <div id="header">
+                  <a href="/" title="www.furtherfield.org">
+            <img src="/sites/furtherfield.org/themes/furtherfield/img/furtherfield_header.png" alt="www.furtherfield.org" id="logo" />
+          </a>
+              </div>
+            <div id="navigation" class="clear">
+        <form action="/features/network-material-interview-julian-oliver" accept-charset="UTF-8" method="post" >
+<div><div class="search_form"><div class="form-item" >
+ <input type="text" maxlength="128" name="search_theme_form" size="15" value="Search this Site" class="form-text search_field" />
+</div>
+<input type="submit" name="op" value="GO" class="form-submit" />
+<input type="hidden" name="form_build_id" value="form-nkT6ywl14g0bR5-ESIjLBl09Nxsujou95yg11cZmHnk" />
+<input type="hidden" name="form_id" value="search_theme_form" />
+</div>
+</div></form>
+          <div id="block-nice_menus-1" class="block block-nice_menus odd">
+  <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-4658 menuparent menu-path-node-21120 first  odd "><a href="/content/about" title="ABOUT">about</a><ul><li class="menu-4667 menu-path-node-21120 first  odd "><a href="/content/about" title="">furtherfield</a></li>
+<li class="menu-12363 menu-path-node-29923 even "><a href="/gallery/about" title="">Gallery&amp;commons</a></li>
+<li class="menu-656 menu-path-contact odd "><a href="/contact" title="contact">contact</a></li>
+<li class="menu-3413 menu-path-node-20890 even "><a href="/content/people" title="People">People</a></li>
+<li class="menu-2705 menu-path-about-press odd "><a href="/about/press" title="press">press</a></li>
+<li class="menu-13001 menu-path-node-49830 even "><a href="/furtherfield-supporters" title="Furtherfield Supporters">supporters</a></li>
+<li class="menu-12364 menu-path-node-29748 odd  last "><a href="/gallery/visit" title="">visit</a></li>
+</ul>
+</li>
+<li class="menu-3000 menuparent menu-path-features even "><a href="/features" title="">features</a><ul><li class="menu-2505 menu-path-features-articles first  odd "><a href="/features/articles" title="">articles</a></li>
+<li class="menu-2561 menu-path-features-interviews even "><a href="/features/interviews" title="interviews">interviews</a></li>
+<li class="menu-2572 menu-path-features-reviews odd "><a href="/features/reviews" title="reviews">reviews</a></li>
+<li class="menu-3300 menu-path-features-blogs even  last "><a href="/features/blogs" title="">Furtherfield Blog</a></li>
+</ul>
+</li>
+<li class="menu-3002 menuparent menu-path-node-2481 odd "><a href="/programmes" title="Programmes">Programmes</a><ul><li class="menu-12365 menu-path-node-29735 first  odd "><a href="/gallery" title="">gallery&amp;commons</a></li>
+<li class="menu-2578 menu-path-programmes-events even "><a href="/programmes/events" title="events">events</a></li>
+<li class="menu-2563 menu-path-programmes-exhibitions odd "><a href="/programmes/exhibitions" title="exhibitions">exhibitions</a></li>
+<li class="menu-6761 menu-path-programmes-media-art-ecologies even "><a href="/programmes/media-art-ecologies" title="">Media Art Ecology</a></li>
+<li class="menu-3840 menu-path-programmes-outreach odd "><a href="/programmes/outreach" title="outreach">Outreach</a></li>
+<li class="menu-2565 menu-path-programmes-projects even "><a href="/programmes/projects" title="projects">projects</a></li>
+<li class="menu-4793 menu-path-programmes-publications odd "><a href="/programmes/publications">Publications</a></li>
+<li class="menu-2567 menu-path-programmes-radio even "><a href="/programmes/radio" title="radio">radio</a></li>
+<li class="menu-2570 menu-path-programmes-residencies odd  last "><a href="/programmes/residencies" title="residencies">residencies</a></li>
+</ul>
+</li>
+<li class="menu-3003 menuparent menu-path-node-2482 even "><a href="/get-involved" title="Get Involved">Get Involved</a><ul><li class="menu-3005 menu-path-node-2484 first  odd "><a href="/get-involved/become-a-reviewer" title="Become a Reviewer">Become a Reviewer</a></li>
+<li class="menu-5582 menu-path-node-23452 even "><a href="/content/create-remix-and-play" title="Create, Remix and Play">Create Remix Play</a></li>
+<li class="menu-12976 menu-path-furtherfieldorg-programmes-events odd "><a href="http://www.furtherfield.org/programmes/events" title="">Events / Activities</a></li>
+<li class="menu-4791 menu-path-crmfurtherfieldorg-civicrm-contribute-transactreset1id2 even "><a href="http://crm.furtherfield.org/civicrm/contribute/transact?reset=1&amp;id=2" title="Donate">Donate</a></li>
+<li class="menu-3275 menu-path-netbehaviour odd "><a href="/netbehaviour" title="">Join NetBehaviour</a></li>
+<li class="menu-6700 menu-path-get-involved-lexicon even  last "><a href="/get-involved/lexicon" title="">Lexicon</a></li>
+</ul>
+</li>
+<li class="menu-3004 menuparent menu-path-node-2483 odd  last "><a href="/community" title="Community">Community</a><ul><li class="menu-13316 menu-path-gallery-open-spots first  odd "><a href="/gallery/clear-spots" title="">open spots</a></li>
+<li class="menu-2774 menu-path-users even "><a href="/users" title="user profile">User Profiles</a></li>
+<li class="menu-2255 menu-path-blogs odd "><a href="/blogs" title="">community blog</a></li>
+<li class="menu-4633 menu-path-community-calendar even "><a href="/community/calendar" title="calendar showing events">Calendar</a></li>
+<li class="menu-12366 menu-path-your-art odd  last "><a href="/your-art" title="">your art here</a></li>
+</ul>
+</li>
+</ul>
+</div>
+      </div>
+                  <div class="page_sep clear"></div>
+      <div id="page" class="clearfix">
+        <div id="main"  class="sidebar">
+                                                              <h1 >Network as Material: An Interview with Julian Oliver.</h1>                                        
+<div id="node-27212" class="node page clear-block">
+
+
+
+      <span class="submitted">By <a href="/user/taina-bucher">Taina Bucher</a> - 16/06/2011</span>
+  
+  <div class="content">
+        <div class="main_image">
+      <img src="http://www.furtherfield.org/sites/furtherfield.org/files/imagecache/content_width_598px/julianoliver_main.png" alt="" title="" width="598" height="300" class="imagecache imagecache-content_width_598px"/>       
+    </div>
+                <div class="tagcloud">
+      <div class="t">Tags</div>
+      <div class="terms terms-inline"><ul class="links inline"><li class="taxonomy_term_560 first"><a href="/tag/activism-1" rel="tag" title="">activism</a></li>
+<li class="taxonomy_term_458"><a href="/tag/code" rel="tag" title="">code</a></li>
+<li class="taxonomy_term_459"><a href="/tag/code-art-0" rel="tag" title="">code art</a></li>
+<li class="taxonomy_term_939"><a href="/tag/critical-engineering" rel="tag" title="">critical engineering</a></li>
+<li class="taxonomy_term_941"><a href="/tag/information-architecture" rel="tag" title="">information architecture</a></li>
+<li class="taxonomy_term_921"><a href="/tag/media-art-12" rel="tag" title="">media art</a></li>
+<li class="taxonomy_term_729"><a href="/tag/networked-1" rel="tag" title="">networked</a></li>
+<li class="taxonomy_term_319"><a href="/category/tags/new-media" rel="tag" title="">new media</a></li>
+<li class="taxonomy_term_109"><a href="/tag/open-source" rel="tag" title="">open source</a></li>
+<li class="taxonomy_term_803"><a href="/tag/social-3" rel="tag" title="">social</a></li>
+<li class="taxonomy_term_107"><a href="/tag/software-art" rel="tag" title="">software art</a></li>
+<li class="taxonomy_term_940 last"><a href="/tag/virtual-reality" rel="tag" title="">virtual reality</a></li>
+</ul></div>
+    </div>
+        <p>An Interview with Julian Oliver By Taina Bucher.</p><p>I met the Berlin-based media artist and programmer <span style="text-decoration: underline;"><a href="http://selectparks.net/~julian" target="_blank">Julian Oliver</a></span> in Toronto as part of the Subtle Technologies festival, where he taught a workshop on the <span style="text-decoration: underline;"><a href="http://www.subtletechnologies.com/festival/workshop-network" target="_blank">Network as Material</a></span>. The aim of the workshop reflects Oliver’s artistic and pedagogical philosophy nicely; to not only make people aware of the hidden technical infrastructures of everyday life but to also provide people with tools to interrogate these constructed and governed public spaces.</p><p>Julian Oliver, born in New Zealand (anyone who has seen him give a talk will know not to mistake him for an Australian) is not only an extremely well versed programmer but is increasingly as equally knowledgeable with computer hardware. His background is as diverse as the places he has lived and the journeys it has taken him on.&nbsp;<span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">Julian started out with architecture but became increasingly interested in&nbsp;</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">electronic art after working as Stelarc’s assistant on 'Ping Body', Auckland,</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">1996. He moved on to Melbourne, Australia, and worked as guest researcher at a&nbsp;</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">Virtual Reality center. Later he established the artistic game-development&nbsp;</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">collective <span style="text-decoration: underline;"><a href="http://selectparks.net">Select Parks</a></span>&nbsp;and in 2003 left for Gotland&nbsp;to work at the Interactive Institute of Sweden's game lab. He then moved on to&nbsp;</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">Madrid where he had extensive involvement with the Media Lab Prado. &nbsp;Several&nbsp;</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">countries, projects and residencies later, he made Berlin his preferred base,&nbsp;</span><span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">setting up a studio there with colleagues.&nbsp;</span>Julian is also an outspoken advocate of free software and thinks of his artistic practice not so much as art but more in terms of being a ‘critical engineer’, a term that he applies particularly to his collaborations with his studio partner <span style="text-decoration: underline;"><a href="http://www.furtherfield.org/interviews/interview-danja-vasiliev" target="_blank">Danja Vasiliev</a></span>.&nbsp;</p><p>Their latest collaboration called <span style="text-decoration: underline;"><a href="http://newstweek.com/overview" target="_blank">Newstweek</a></span>, was recently announced as winners of the Golden Nica in the Interactive art category of the Prix Ars Electronica 2011. The project leverages on the network as a medium for rigorous, creative investigation, exploring the intersection between the perceived trustworthiness of mass media and the conditions of networked insecurity.</p><p>His artistic practice clearly reflects his hacker and gaming background, playing around and messing with routers, capturing data from open wireless networks, visually augmenting commercial billboards in the cityscape, sonifying Facebook chats, <span style="text-decoration: underline;"><a href="http://selectparks.net/~julian/pg" target="_blank">visualizing protocols</a></span> and otherwise manipulating networks for artistic purposes. I sat down with Julian on June 1st to talk about his most recent art projects, his reflections on software and digital media arts more generally. The interview was&nbsp;<span class="Apple-style-span" style="font-family: arial, sans-serif; line-height: normal; border-collapse: collapse;">transcribed from a voice recording in a busy cafe to the best of my ability.</span><br /><br /><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/packet-garden-548x205.png" alt="Packet Garden by Julian Oliver" title="" width="548" height="205" style="display: block; margin-left: auto; margin-right: auto;" /><span style="font-size: x-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Screenshots from <em>Packet Garden</em> by Julian Oliver (2006)</span><br /><br /><strong>Taina Bucher:</strong> You started out with architecture and then moved over to games. How did that transition come about?<br /><br /> <strong>Julian Oliver:</strong> I realized quite early on that I was less interested in buildings than I was in exploring architecture in the context of the language within which it operates. I was more interested in hypothetical architecture. Like impossible structures such as what Buckminster Fuller proposed, and when I ended up working in a virtual reality centre in Melbourne I found that sitting behind a bunch of SGI machines dedicated to rendering virtual experiences, that I no longer really needed to invest in the idea to build something. I was more interested in something more plastic and mutable. The bridge from there to games came about around 1997-1998. Source code from games started to become available and it became apparent to me that it was possible to modify these games to explore an artistic practice, an architectural and sculptural practice really, using the medium of computer games. There were only 4-5 of us in the world working on this and we quickly made contact with each other. I left the VR centre and started an artistic game based modification lab in Melbourne called Select Parks. For about six years we did a whole bunch of projects based on computer games. We also established an online archive of the ever-increasing experiments and artistic investigations into computer game technology under <span style="text-decoration: underline;"><a href="http://selectparks.net/" target="_blank">selectparks.net</a></span>. The archive is still there now.<br /><br /> <strong>TB:</strong> Was it the same interest in the mutability of the medium that led you to work with software more generally?<br /><br /> <strong>JO:</strong> I’ve been programming since I was pretty young and I’ve been around computers since I was a boy and working with them, but it was when I started to increase my freedom of movement with the medium of computer games that I became a programmer. I started to learn C, C++ and scripting languages and I quickly became hooked with the mix between technical challenges and rigorous creative exploration. I think the balance of the two still remains in my work.<br /><br /> <strong>TB:</strong> In one of your academic papers on games you ask the question of how much of the medium, as a raw field of possibilities, really is available to the artist. Well, let me ask you the same question in relation to software given that software always comes with a certain kind of aesthetic expectation.<br /><br /> <strong>JO:</strong> Definitely. I think it is a bit of a shame that much of what is called digital art is in fact made by using software suits built by large corporations. Macromedia, now the Adobe suite, is almost an infrastructure of the media arts. Painters of 200 years ago would never have accepted this brand attached to their canvas. They would never have accepted that their tools would be designed with such a generic mass audience in mind. I think that while the digital arts are certainly an exciting field there is an unadmitted dependency on a food chain that comes entirely from a corporation. The contemporary artist would then talk about breaking these tools, or you know, misusing them. But who is really holding the power? I think at a certain point for me, this was the reason why I moved entirely into free software. I really wanted to look at software as a core medium itself and I wanted to get at the guts of it. I wanted to have a rigorous personal relationship with technology so that I could bend it to my needs rather than my needs being bent.<br /><br /><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/psworld2_sml-545x306.jpg" alt="PSWORLD screenshot by Julian Oliver" title="" width="545" height="306" style="display: block; margin-left: auto; margin-right: auto;" /><span style="font-size: x-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Philosoftware'<em> <a href="http://selectparks.net/~julian/psworld/" target="_blank">psworld</a> by Julian Oliver (2010)</em></span><br /><br /><strong>TB:</strong> How do you picture a genuinely critical media arts practice then, moving away from the Adobe suites of the world? <br /><br /> <strong>JO:</strong> No, I think it is fine to use Adobe if it satisfies your expectations. However I think that the expectations themselves are already defined by these external corporate market inputs. I think it is really important for digital artists to understand what digits are. They call themselves software artists but they do not really write software or know what it is. By using it their works become symptomatic of a process that they themselves have not defined. <br /><br /> <strong>TB:</strong> Does this mean we have to know code in order to be critical of code?<br /><br /> <strong>JO:</strong> Yes. I think you need to speak the language. It is the same thing with other cultural practices; you need to know the basics of how a violin or a guitar works before you can pass a judgement on the player. There is a parallel history to the new media arts that is not written and that’s all of those technical and cultural contributions that artists and technologists make when they are producing a work of new media. There is certainly a very well written history for the work of art in the galleries but there is nothing of the sorts for the fundaments of the technical achievements. I mean we have that with music for instance, with the evolution of the piano, but there are things happening in the new media arts all the time that no one other than the technologists can really appreciate. These are significant contributions that actually shape the way in which media are used in the future. This is certainly the case with the development of a new programming language that a historian might not necessarily notice. A language like Python or a framework like open frameworks has shifted media arts in such an influential way. Most people only see the end product. Understanding just a little in this regard is enough for enriching the history of the field I think. <br /><br /> <strong>TB:</strong> One could certainly argue that the ‘democratization of code’ with web 2.0 technologies and open APIs potentially lets anyone produce software art?<br /><br /> <strong>JO:</strong> Yes certainly. Take Processing for instance, anyone can make a digital square if they want. There is nothing inherently wrong with that. What I am interested in is to make people understand what’s behind it. I think we as artists need to describe what we do and part of this is to publish the source code. For me personally this is an obligation. By publishing the source code I am enriching the scene by allowing other people to have an insight into how it works. Take the project that Danja and I have been doing with Newstweek. If we would hide the way it works it would not enrich anything. We’d only be contributing to our own careers. We therefore publish all our code. You can download it now and already be learning how we did it and so together as a whole we move forward.<br /><br /> <strong>TB:</strong> Is code ever finished?<br /><br /> <strong>JO:</strong> That’s a really good question. Probably not. Someone could come along and improve what you think is finished. Every problem can be solved in a multitude of different ways. What constitutes being finished for one program might be elegance of expression. For another one it might be its performance. There are different value systems for programmers. Code in an open context, that is published openly, tends to be living or have the opportunity to live and be contributed to.<br /><br /> <strong>TB:</strong> You mentioned that most people do not know what software is, would you mind elaborating on that?<br /><br /> <strong>JO:</strong> Software in its simplest form is a group of instructions that work together somewhat contiguously to process data with an intended outcome. Data itself is everything that is not program code and program code itself is instructions written in a human readable language that are compiled into a form that the computer can understand. Computers have their own language; they are interpreters in a sense. You can really understand software as an automation of multitudinous processes to speed up the production of an intended or desirable outcome. Decision-making can occur, so it is not just a one-dimensional procedure. For the user though, software is generally just a skin of metaphors. If you think about it, clicking a picture becomes an initiation of an event and software is made to allow for the clicking of pictures to allow it to start a program. I mean software is many things at the same time, a field of illusions and metaphors.<br /><br /> <strong>TB:</strong> To what extent can you be taken by surprise by the software as an artistic medium given that it is your instructions?<br /><br /> <strong>JO:</strong> Well it depends on the scale of the project. Much of the time the software is a field of limitations. Working with software is about finding ways to make these limitations work and move within them. Unless you (of course) do something in Processing and you just want it to make a square then you just want the program to do exactly this. But for more complex projects I’d describe computer programming as a process of self-humiliation. It is about finding out how poor your initial assumptions about your own abilities are, you feel frustration and you need to fight against your own attention deficit disorder. It is a conversation with yourself, self-development ultimately. Secondly, it is a process of breaking down big problems into smaller ones until so much of the smaller problems are solved that the big one is solved too. But first and foremost I think that software development is self-development. <br /><br /> <strong>TB:</strong> Speaking of self-development. It is interesting to note that you have in a way returned to architecture, the difference being that you are not sculpting the physical space but the immaterial space. Maybe more so than building things one could say that you deconstruct them, take them apart through intervening and disrupting space. <br /><br /> <strong>JO:</strong> Yeah. Danja and I work together a lot these days and we refer to ourselves less as artists than as critical engineers. We firmly believe that the most transformative language of our time, one that defines whole economies, I mean how we trade, how and what we eat, how we converse with each other, how we move around the world is engineering. Art itself is increasingly diluted in transformative power, it has become more like entertainment than necessarily anything that is intrinsically rigorous. In the early days of the 1920s and 1930s we had interventionists' strategies that are now known as art but they didn’t call themselves artists at the time. So as I have been saying to myself quite a lot recently it doesn’t matter if I call what I do art, others will do it for me anyway. So I better describe myself as a critical engineer by taking the language of engineering and lifting it out from a strictly utilitarian space and look at it as a language for rich, critical inquiry and really take on that challenge. It is really about taking the language of engineering and blowing it wide open, taking it away from this kind of black box reality, of big companies making stuff for civilians. This is essentially our relationship to technology. The companies and government make technologies upon which we depend and I think as any technology becomes more ubiquitous like smart phones our ignorance increases. With ubiquity comes ignorance and it seems to be a plottable, predictable curve. The idea of being a critical engineer is to intervene at this point and say “No! Stop!”. We need to reflect on what we are working with and how what we depend upon is shaping us. So learning this hard stuff in order to evade the top down superstructure is necessary. <br /><br /> <strong>TB:</strong> This might be a good transition to talking about Newstweek, a project that precisely seeks to evade the top down superstructure that you mentioned. How did this project that you’ve collaborated on with Danja Vasiliev come about?<br /><br /><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/furtherfield/newstweek-541x304.png" alt="" title="" width="541" height="304" style="display: block; margin-left: auto; margin-right: auto;" /><br /><strong>JO:</strong> We were at the <span style="text-decoration: underline;"><a href="http://www.ccc.de/en/" target="_blank">Chaos Computer Club</a></span> early this year and we put a little plug into the wall where we put a small router inside. Our goal was really simple, to go into the Berlin congress centre with thousands of hackers and put the thing into the wall and see how long it would last without anybody noticing. We expected it would last a few hours but it was there for the entire conference. One could see it from hundreds of meters away but nobody did something about it, so we realized we were onto something. So we wanted to build a device that looks so much like part of the infrastructure that it would appear harmless. <br /><br /><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/furtherfield/newsteek-533x299.png" alt="" title="" width="533" height="299" style="display: block; margin-left: auto; margin-right: auto;" /></p><p><iframe src="http://player.vimeo.com/video/23075736?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="580" height="326"></iframe></p><p><span style="font-size: x-small;"><em><a href="http://vimeo.com/23075736">Newstweek: fixing the facts</a> from <a href="http://vimeo.com/user5685529">newstweek</a> on <a href="http://vimeo.com">Vimeo</a>.</em></span></p><p>The second thing was to couple it with a man-in the middle attack and to interrogate what we increasingly refer to as a browser-defined reality. Meaning that if it manifests in the browser it is somehow authentic. It is this idea of going to a major news site and as long as what one sees comes from this imaginary thing called a server and propagates in your browser, it is somehow trustworthy. We wanted to explore the limits of the impossibility of intervening in an otherwise top down distribution of news. We wanted to find an on-the-ground way for civilians to intervene upon this authority by manipulating the facts. It is really about allowing for a lateral interception of news sources, such asthe BBC, the Guardian and CNN. <br /><br /> <strong>TB</strong>: Did you also record or document people’s reactions to their suddenly altered or tweaked news?<br /><br /> <strong>JO:</strong> Yeah we have done this. The thing for us though was merely to provide a platform. People didn’t really believe that Newstweek worked. So we released the how-to saying here is where you buy the hardware, here is how you open it up, here is the firmware, here is the script and so forth. Only then we had this quietly retrospect where people were going “aha”. What we have changed is their relationship with their environment. It doesn’t matter whether there has been a Newstweek-device in the environment or not. The very fact that they are looking around them and thinking that what is happening in their browser may have been tweaked is itself the most desirable outcome. This is exactly what happened. Most of the comments are of that nature saying, “I will never trust the news again”. I mean, even when the attention for the project falls back to the sleepy town of acceptance I think we can still be very proud of ourselves. <br /><br /> <strong>TB:</strong> Not just Newstweek, but much of your work is about intervening in public space and exploring the meaning of place. What do these concepts mean to you?<br /><br /> <strong>JO:</strong> Well I am very interested in the writings of Edward S Casey and the phenomenologist’s Husserl, Mearleau-Ponty and Heidegger of course. One of the great things that has come out of that thought is that Space in itself does not really exist, just as there is no number 2 in the universe. What we have done is to create a concept in order to pre-empt space, to reduce contingency, and in this way so much scientific thought is about reduction of contingency. Space of course is a projection of mathematical constituents to make determinations. Through mathematics and cartography and the like we have seen a growth in trust in the space model rather than the place model. So what I am really interest in, is that rationalization of place has allowed us to live in cities, which have been atomically and economically particularized, privatized. I am interested in how the distinctions between public and private is often extraordinarily blurry. A good example is the fact that a company can pay to put a huge picture outside your apartment during construction for instance yet when it is a millimetre or two away from your wall it no longer belongs to you. Or when you are drilling a hole through your wall in your house at a certain point you are going to hit the neighbours next door. Where does it begin and where does it end? It really shows that territory and place are just constructions. The same goes for wireless technology. <br /><br /> <strong>TB:</strong> Why is it important to question the ways in which we experience public space?<br /><br /> <strong>JO:</strong> Well take my work <span style="text-decoration: underline;"><a href="http://selectparks.net/~julian/theartvertiser" target="_blank"><em>Artvertiser</em></a></span> as an example. We have come to accept that our cities are covered in proprietary imagery. So I find it important to question this read-only space much in the line of ad busting and culture jamming. We just did a big streetwise exhibition in Helsinki where artists chose their brands and they made concise commentary simultaneously finding a new way of being in their city. <br /><br /><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/artvert-538x325.jpg" alt="Augmented Reality - The Artvertiser" title="" width="538" height="325" style="display: block; margin-left: auto; margin-right: auto;" /><br /> <br /><strong>TB:</strong> Place often resides in memory and to a certain extent requires permanence. With <em>Artvertiser</em> it is only a temporary intervention. In the end the proprietary imagery stays. What do you hope people take away from an artwork like the <em>Artvertiser</em>? <br /><br /> <strong>JO:</strong> True. But again, the most productive outcome is conversation. We have the public coming up and looking again and again, through the binoculars at the modified billboards. We even had security guards getting angry. I mean all we are doing is producing a new experience in the visual cortex. Why would a member of the public like the security guard get angry that we are modifying our own experience voluntarily? It is kind of curious.</p>  </div>
+  
+  <div class="meta">
+    <ul class="links inline"><li class="comment_forbidden first"><span><a href="/user/login?destination=node%2F27212%23comment-form">login</a> to reply</span></li>
+<li class="statistics_counter last"><span>12542 reads</span></li>
+</ul>  </div>
+</div><div id="comments" class="">
+      <h2 class="comments">Comments</h2>
+        <div class="no_comments">No comments posted.</div>
+   
+      <div class="comment_login_needed">
+  <ul class="links">
+    <li><a href="/user/login?destination=node%2F27212%23comment-form">Login</a> or <a href="/user/register?destination=node%2F27212%23comment-form">sign up</a> to post comments</li>
+  </ul>
+  </div>  
+  </div>
+                  </div>
+        <div id="sidebar-right" class="sidebar">
+            <div class="block" id="block-share">
+  <div class="t">
+    <h3>SHARE</h3>
+  </div>
+  <div class="c">
+    <a href="http://www.delicious.com/save?url=http%3A%2F%2Fwww.furtherfield.org%2Ffeatures%2Fnetwork-material-interview-julian-oliver&title=Network as Material: An Interview with Julian Oliver. | www.furtherfield.org" class="delicious" title="share on delicious">share on delicious</a>
+    <a href="http://twitter.com/home?status=http%3A%2F%2Fwww.furtherfield.org%2Ffeatures%2Fnetwork-material-interview-julian-oliver" class="twitter" title="share on twitter">share on twitter</a>
+    <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.furtherfield.org%2Ffeatures%2Fnetwork-material-interview-julian-oliver" class="stumbleupon" title="share on stumbleupon">share on stumbleupon</a>
+    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.furtherfield.org%2Ffeatures%2Fnetwork-material-interview-julian-oliver&t=Network as Material: An Interview with Julian Oliver. | www.furtherfield.org" class="fb" title="share on facebook">share on facebook</a>
+    <a href="http://identi.ca/index.php?action=bookmarklet&status_textarea=Network as Material: An Interview with Julian Oliver. | www.furtherfield.org+%0Ahttp%3A%2F%2Fwww.furtherfield.org%2Ffeatures%2Fnetwork-material-interview-julian-oliver" class="identica" title="share on identica">share on identica</a>
+    <a href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.furtherfield.org%2Ffeatures%2Fnetwork-material-interview-julian-oliver&title=Network as Material: An Interview with Julian Oliver. | www.furtherfield.org" class="digg" title="share on digg">share on digg</a>
+  </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-0c5aebe637f3e7c3ef305e26c84d3a7e" class="block block-views odd">
+  <div class="t">
+          <h3>Download</h3>
+      </div>
+  <div class="c">
+    <div class="view view-sidebar-teasers-and-banners view-id-sidebar_teasers_and_banners view-display-id-block_7 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-body">
+                <div class="field-content"><p><a href="http://furtherfield.org/gallery-files/ff-booklet-web.pdf" target="_blank"><img src="/sites/furtherfield.org/files/olga_panades_massanet/thumbnail_0.jpg" alt="Furtherfield Booklet Cover image" width="280" height="200" style="display: block; margin-left: auto; margin-right: auto; padding-top: 10px;" /></a></p></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-gallery_sidebars-block_1" class="block block-views even">
+  <div class="t">
+          <h3>Back to Gallery</h3>
+      </div>
+  <div class="c">
+    <div class="view view-gallery-sidebars view-id-gallery_sidebars view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-body">
+                <div class="field-content"><div></div><div><a href="/gallery"><img src="/sites/furtherfield.org/files/olga_panades_massanet/ff-gallery-commons-logo240px.png" width="240" height="51" style="padding: 20px; display: block; margin-left: auto; margin-right: auto;" /></a></div></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-event-block_1" class="block block-views odd">
+  <div class="t">
+          <h3>What's on</h3>
+      </div>
+  <div class="c">
+    <div class="view view-event view-id-event view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      
+
+
+<div id="views_slideshow_singleframe_main_event-block_1" class="views_slideshow_singleframe_main views_slideshow_main"><div id="views_slideshow_singleframe_teaser_section_event-block_1" class="views_slideshow_singleframe_teaser_section"><div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_singleframe_div_event-block_1_0"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/community/calendar/designing-desire"><span class="date-display-start">12 Oct 2017 - 6:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">5 Nov 2017 - 6:00pm</span> - Designing Desire</a></span>
+  </div>
+  
+  <div class="views-field-field-event-summary-value">
+                <span class="field-content">Is it possible to change the world without also changing ourselves? Featuring artists Morehshin Allahyari, Joey Holder, and Kuang-Yi Ku,&nbsp;Designing Desire&nbsp;will consider the future of 3D...</span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content">added by <a href="/user/fact">FACT</a> on 20/09/17</span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-2 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_event-block_1_1"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/community/calendar/screen-city-biennial"><span class="date-display-start">12 Oct 2017 (All day)</span><span class="date-display-separator"> - </span><span class="date-display-end">31 Oct 2017 (All day)</span> - Screen City Biennial</a></span>
+  </div>
+  
+  <div class="views-field-field-event-summary-value">
+                <span class="field-content">Screen City Biennial in Stavanger, the first Nordic Biennial dedicated to the expanded moving image in public space, returns in October for its third edition (previously Screen City Festival 2013 and...</span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content">added by <a href="/user/laurenac">LaurenAC</a> on 07/09/17</span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_event-block_1_2"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/community/calendar/lumen-prize-winners-2017"><span class="date-display-start">29 Sep 2017 - 12:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">13 Oct 2017 - 5:00pm</span> - Lumen Prize Winners 2017</a></span>
+  </div>
+  
+  <div class="views-field-field-event-summary-value">
+                <span class="field-content">Brighton Digital Festival has partnered with the Lumen Prize to stage an exhibition of the winners and shortlisted artists of the 2017 prize on the first stop of a year-long world tour.</span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content">added by <a href="/user/laurenac">LaurenAC</a> on 26/09/17</span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-4 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_event-block_1_3"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/community/calendar/emotion-technobody"><span class="date-display-start">21 Sep 2017 (All day)</span><span class="date-display-separator"> - </span><span class="date-display-end">17 Nov 2017 (All day)</span> - Emotion + the Tech(no)body</a></span>
+  </div>
+  
+  <div class="views-field-field-event-summary-value">
+                <span class="field-content">Private View: Wednesday 20 September, 6 – 9pm</span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content">added by <a href="/user/laurenac">LaurenAC</a> on 07/09/17</span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-5 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_event-block_1_4"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/community/calendar/connect-dots"><span class="date-display-start">15 Sep 2017 (All day)</span><span class="date-display-separator"> - </span><span class="date-display-end">8 Oct 2017 (All day)</span> - CONNECT THE DOTS</a></span>
+  </div>
+  
+  <div class="views-field-field-event-summary-value">
+                <span class="field-content">This Fall 2017, iii presents “Connect the Dots”, a program revolving around participatory artworks, through which we invite our audience to take part in playful and open-ended experiences. The...</span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content">added by <a href="/user/laurenac">LaurenAC</a> on 07/09/17</span>
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="subnavigation">
+   
+        <a class="goto" href="/community/calendar">go to calendar</a>
+        <a class="submit" href="/node/add/event">submit an event</a>
+        
+      </div>    </div>
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+  <div id="block-tagadelic-1" class="block block-tagadelic even">
+  <div class="t">
+          <h3>Tags in Tags</h3>
+      </div>
+  <div class="c">
+    <a href="/category/tags/academic" class="tagadelic level2" rel="tag" title="">academic</a> 
+<a href="/tag/activism-1" class="tagadelic level5" rel="tag" title="">activism</a> 
+<a href="/tag/aesthetic" class="tagadelic level1" rel="tag" title="">aesthetic</a> 
+<a href="/tag/agency" class="tagadelic level1" rel="tag" title="">agency</a> 
+<a href="/category/tags/art" class="tagadelic level1" rel="tag" title="">art</a> 
+<a href="/tag/behaviour-4" class="tagadelic level2" rel="tag" title="">behaviour</a> 
+<a href="/tag/collaboration-6" class="tagadelic level6" rel="tag" title="">collaboration</a> 
+<a href="/tag/collective" class="tagadelic level2" rel="tag" title="">collective</a> 
+<a href="/tag/community-2" class="tagadelic level2" rel="tag" title="">community</a> 
+<a href="/tag/critical" class="tagadelic level1" rel="tag" title="">critical</a> 
+<a href="/category/tags/culture" class="tagadelic level2" rel="tag" title="">culture</a> 
+<a href="/tag/cyberculture" class="tagadelic level1" rel="tag" title="">cyberculture</a> 
+<a href="/tag/digital" class="tagadelic level2" rel="tag" title="">digital</a> 
+<a href="/tag/diy" class="tagadelic level1" rel="tag" title="">diy</a> 
+<a href="/tag/interactive-0" class="tagadelic level1" rel="tag" title="">interactive</a> 
+<a href="/tag/internet-art-0" class="tagadelic level4" rel="tag" title="">Internet art</a> 
+<a href="/tag/media-art-11" class="tagadelic level6" rel="tag" title="">media art</a> 
+<a href="/tag/net-art" class="tagadelic level2" rel="tag" title="">net art</a> 
+<a href="/tag/networked-1" class="tagadelic level3" rel="tag" title="">networked</a> 
+<a href="/category/tags/networks" class="tagadelic level1" rel="tag" title="">networks</a> 
+<a href="/tag/participation-1" class="tagadelic level3" rel="tag" title="">participation</a> 
+<a href="/tag/performance-4" class="tagadelic level1" rel="tag" title="">performance</a> 
+<a href="/tag/social-3" class="tagadelic level5" rel="tag" title="">social</a> 
+<a href="/tag/theory" class="tagadelic level2" rel="tag" title="">theory</a> 
+<div class='more-link'><a href="/tagadelic/chunk/1">more tags</a></div>  </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-lexicon-block_1" class="block block-views odd">
+  <div class="t">
+          <h3>Lexicon</h3>
+      </div>
+  <div class="c">
+    <div class="view view-lexicon view-id-lexicon view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/lexicon/mociology">mociology</a></span>
+  </div>
+  
+  <div class="views-field-body">
+                <span class="field-content">The study of the effect of mobile technology and ubiquitous networks on our social interactions.  A combination of mobile and sociology.  </span>
+  </div>
+  
+  <div class="views-field-created">
+                <span class="field-content">By <a href="/user/jon-beardsley">Jon Beardsley</a> on 30 Jan 2006 - 1:00am</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="subnavigation">
+   <a class="goto" href="/get-involved/lexicon">go to lexicon</a>
+   <a class="submit" href="/node/add/lexicon">submit a term</a>
+</div>    </div>
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-fb3263df72f13f85f7d09799b8a20985" class="block block-views even">
+  <div class="t">
+          <h3>Create, Remix, Play.</h3>
+      </div>
+  <div class="c">
+    <div class="view view-sidebar-teasers-and-banners view-id-sidebar_teasers_and_banners view-display-id-block_3 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-body">
+                <div class="field-content"><div><a href="http://www.visitorsstudio.org/"><img width="300" height="215" title="Connect, remix and play at Visitor&#039;s Studio" alt="Connect, remix and play at Visitor&#039;s Studio" src="http://www.furtherfield.org/sites/furtherfield.org/files/olga_panades_massanet/visitorsstudio_300px.jpg" /></a></div></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-publications-block_1" class="block block-views odd">
+  <div class="t">
+          <h3>Publications</h3>
+      </div>
+  <div class="c">
+    <div class="view view-publications view-id-publications view-display-id-block_1 view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-body">
+                <div class="field-content"><a href="/researchpublicatios/artists-rethinking-games"><img height="129" width="300" src="http://www.furtherfield.org/sites/furtherfield.org/files/olga_panades_massanet/artists_rethinking_block.jpg" title="Artists Re:Thinking Games, a Furtherfield Publication" alt="Artists Re:Thinking Games Book Cover" /></a></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+  <div id="block-views-b447a0d63a72f732a04fd5e60622fc7b" class="block block-views even">
+  <div class="t">
+          <h3>We Recommend</h3>
+      </div>
+  <div class="c">
+    <div class="view view-sidebar-teasers-and-banners view-id-sidebar_teasers_and_banners view-display-id-block_2 view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-body">
+                <div class="field-content"><div><a href="http://turbulence.org/" target="_blank"><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/turbulence-145x48.png" alt="Turbulence.org" width="145" height="48" /></a>&nbsp;<a href="http://neural.it/" target="_blank"><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/logo_neural-145x48.gif" alt="Neural.it" width="145" height="48" /></a><br /><a href="http://teks.no/" target="_blank" style="color: #939681; outline-style: none; text-decoration: none;"><img src="http://www.furtherfield.org/sites/furtherfield.org/files/olga_panades_massanet/teks-logo-145x48.jpg" alt="TEKS logo" title="" width="145" height="48" /></a>&nbsp;<a href="http://puredyne.org/" target="_blank"><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/puredyne-145x48.png" alt="Pure Dyne" width="145" height="48" /></a><meta content="text/html; charset=utf-8" http-equiv="content-type" /><br /><a href="http://www.digicult.it/en" target="_blank"><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/digicult_logo_0-145x38.jpg" alt="Digicult" width="145" height="38" /></a>&nbsp;<a href="http://access-space.lowtech.org/" target="_blank" style="color: #000000; outline-style: none; text-decoration: none;"><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/olga_panades_massanet/access-space-145x48.png" alt="Access Space" width="145" height="48" /></a><meta content="text/html; charset=utf-8" http-equiv="content-type" /><meta content="text/html; charset=utf-8" http-equiv="content-type" /></div></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+  <div class="b"></div>
+</div>
+        </div> 
+      </div>
+      <div class="page_sep clear"></div>
+      <div id="bottom" class="clearfix">
+        <form action="/features/network-material-interview-julian-oliver" accept-charset="UTF-8" method="post" >
+<div><div class="search_form"><div class="form-item" >
+ <input type="text" maxlength="128" name="search_theme_form" size="15" value="Search this Site" class="form-text search_field" />
+</div>
+<input type="submit" name="op" value="GO" class="form-submit" />
+<input type="hidden" name="form_build_id" value="form-nkT6ywl14g0bR5-ESIjLBl09Nxsujou95yg11cZmHnk" />
+<input type="hidden" name="form_id" value="search_theme_form" />
+</div>
+</div></form>
+        <ul class="menu"><li class="expanded first"><a href="/content/about" title="ABOUT">about</a><ul class="menu"><li class="leaf first"><a href="/content/about" title="">furtherfield</a></li>
+<li class="leaf"><a href="/gallery/about" title="">Gallery&amp;commons</a></li>
+<li class="leaf"><a href="/contact" title="contact">contact</a></li>
+<li class="leaf"><a href="/content/people" title="People">People</a></li>
+<li class="leaf"><a href="/about/press" title="press">press</a></li>
+<li class="leaf"><a href="/furtherfield-supporters" title="Furtherfield Supporters">supporters</a></li>
+<li class="leaf last"><a href="/gallery/visit" title="">visit</a></li>
+</ul></li>
+<li class="expanded"><a href="/features" title="">features</a><ul class="menu"><li class="leaf first"><a href="/features/articles" title="">articles</a></li>
+<li class="leaf"><a href="/features/interviews" title="interviews">interviews</a></li>
+<li class="leaf"><a href="/features/reviews" title="reviews">reviews</a></li>
+<li class="leaf last"><a href="/features/blogs" title="">Furtherfield Blog</a></li>
+</ul></li>
+<li class="expanded"><a href="/programmes" title="Programmes">Programmes</a><ul class="menu"><li class="leaf first"><a href="/gallery" title="">gallery&amp;commons</a></li>
+<li class="leaf"><a href="/programmes/events" title="events">events</a></li>
+<li class="leaf"><a href="/programmes/exhibitions" title="exhibitions">exhibitions</a></li>
+<li class="leaf"><a href="/programmes/media-art-ecologies" title="">Media Art Ecology</a></li>
+<li class="leaf"><a href="/programmes/outreach" title="outreach">Outreach</a></li>
+<li class="leaf"><a href="/programmes/projects" title="projects">projects</a></li>
+<li class="leaf"><a href="/programmes/publications">Publications</a></li>
+<li class="leaf"><a href="/programmes/radio" title="radio">radio</a></li>
+<li class="leaf last"><a href="/programmes/residencies" title="residencies">residencies</a></li>
+</ul></li>
+<li class="expanded"><a href="/get-involved" title="Get Involved">Get Involved</a><ul class="menu"><li class="leaf first"><a href="/get-involved/become-a-reviewer" title="Become a Reviewer">Become a Reviewer</a></li>
+<li class="leaf"><a href="/content/create-remix-and-play" title="Create, Remix and Play">Create Remix Play</a></li>
+<li class="leaf"><a href="http://www.furtherfield.org/programmes/events" title="">Events / Activities</a></li>
+<li class="leaf"><a href="http://crm.furtherfield.org/civicrm/contribute/transact?reset=1&amp;id=2" title="Donate">Donate</a></li>
+<li class="leaf"><a href="/netbehaviour" title="">Join NetBehaviour</a></li>
+<li class="leaf last"><a href="/get-involved/lexicon" title="">Lexicon</a></li>
+</ul></li>
+<li class="expanded last"><a href="/community" title="Community">Community</a><ul class="menu"><li class="leaf first"><a href="/gallery/clear-spots" title="">open spots</a></li>
+<li class="leaf"><a href="/users" title="user profile">User Profiles</a></li>
+<li class="leaf"><a href="/blogs" title="">community blog</a></li>
+<li class="leaf"><a href="/community/calendar" title="calendar showing events">Calendar</a></li>
+<li class="leaf last"><a href="/your-art" title="">your art here</a></li>
+</ul></li>
+</ul>      </div> 
+      <div id="footer" class="clearfix">
+        <div class="msg"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"><img src="/sites/furtherfield.org/themes/furtherfield/img/cc.png" title="Creative Commons: Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0) " alt="Creative Commons: Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales (CC BY-NC-SA 2.0) " /></a><span>2017 Furtherfield.org</span></div>  <div id="block-menu-secondary-links" class="block block-menu odd">
+  <ul class="menu"><li class="leaf first last"><a href="/terms-use" title="Terms of Use">Terms of Use</a></li>
+</ul></div>
+        <a class="artscouncil" href="http://www.artscouncil.org.uk" title="supported by artscouncil england">supported by artscouncil england</a>
+        <div class="fineprint">Furtherfield is a Not-for-Profit Company Limited by Guarantee registered in England and Wales under the Company No.7005205.<br/>Registered business address: Ballard Newman, Apex House, Grand Arcade, Tally Ho Corner, London N12 0EH. </div>
+
+
+      </div> 
+    </div>
+
+
+
+
+    <div id="furthernoise"><a href="http://www.furthernoise.org/">SWITCH TO <b>FURTHERNOISE</b></a></div>
+    <div id="donate"><a href="http://crm.furtherfield.org/civicrm/contribute/transact?reset=1&id=2" target="_blank" title="donate">donate</a></div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-48127350-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Site Meter -->
+<script type="text/javascript" src="http://s13.sitemeter.com/js/counter.js?site=s13bellabob"></script><noscript><a href="http://s13.sitemeter.com/stats.asp?site=s13bellabob" target="_top"><img src="http://s13.sitemeter.com/meter.asp?site=s13bellabob" alt="Site Meter" border="0"/></a></noscript>
+<!-- Copyright (c)2009 Site Meter -->
+  </body>
+</html>
